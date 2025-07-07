@@ -1,6 +1,6 @@
 
 
-const WS_URL = "ws://sorteio-production.up.railway.app/";
+const WS_URL = "wss://sorteio-production.up.railway.app/";
 
 
 const STATUS = {
